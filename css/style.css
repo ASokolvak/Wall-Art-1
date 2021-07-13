@@ -493,5 +493,7 @@ svg:hover{
     .header__banner-title{
       font-size: 30px;
     }
-    
+    .header__banner-subtitle{
+      margin-bottom: 90px;
+    }
   }
