@@ -402,6 +402,9 @@ svg:hover{
       max-width: 790px;
     }
     @media (max-width:600px){
+      .header__content{
+        padding-top:0;
+      }
       .services__title{
         font-size: 23px;
       }
