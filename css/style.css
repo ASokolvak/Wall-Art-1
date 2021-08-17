@@ -167,6 +167,7 @@ svg:hover{
   height: 192px;
   width: 298px;
   border-radius: 15px;
+  object-fit: cover;
 }
 .services__list-content li{
   
